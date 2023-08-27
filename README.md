@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Capnote](https://github.com/Script-Java/Capinote)
 
-- 🌱 I’m currently learning **ttkbootstrap, python**
+- 🌱 I’m currently learning **ttkbootstrap, python, flask**
 
 - 📫 How to reach me **atrinsh2005@gmail.com**
 
